@@ -1,4 +1,4 @@
-; https://superuser.com/a/1248610
+; Source: https://superuser.com/a/1248610
 
 LCtrl & Tab:: 
     AltTabMenu := true

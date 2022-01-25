@@ -1,3 +1,5 @@
+; Source: https://github.com/langheran/macOS-AltTab
+
 #Include lib/LibCon.ahk
 
 Process, Priority,, Realtime

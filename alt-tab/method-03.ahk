@@ -1,4 +1,4 @@
-; https://www.autohotkey.com/boards/viewtopic.php?p=308245#p308245
+; Source: https://www.autohotkey.com/boards/viewtopic.php?p=308245#p308245
 
 ; Remap Ctrl-Tab to Alt-Tab
 ^Tab::
