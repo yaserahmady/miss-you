@@ -1,0 +1,2 @@
+<^Tab::AltTab
+<+Tab::ShiftAltTab

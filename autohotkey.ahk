@@ -17,6 +17,8 @@
 ; #include ahk/hookshot.ahk
 ; #Include ahk/JSON.ahk
 ; #include ahk/alt-tab.ahk
+; #include ahk/alttab.ahk
+#include alt-tab/alt-tab.ahk
 
 #include ahk/groups.ahk
 #include ahk/finder.ahk
